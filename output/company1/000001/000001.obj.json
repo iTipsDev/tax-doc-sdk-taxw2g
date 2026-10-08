@@ -1,0 +1,72 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "61-613-9830",
+  "taxFormId" : "8072025",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0269869",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Simonis-Kemmer"
+    },
+    "address" : {
+      "line1" : "89637 Blick Mews",
+      "city" : "Maynardstad",
+      "region" : "VT",
+      "postalCode" : "20581",
+      "unitType" : "Apt",
+      "unitNumber" : "637"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "liza.wilderman@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-39-3883",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Hipolito",
+      "middle" : "Garfield",
+      "last" : "Heller"
+    },
+    "businessName" : {
+      "name1" : "Moore-Roob"
+    },
+    "address" : {
+      "line1" : "262 Cordie Place",
+      "city" : "Lesterside",
+      "region" : "MS",
+      "postalCode" : "82283",
+      "unitType" : "Apt",
+      "unitNumber" : "499"
+    },
+    "email" : "stewart.bogisich@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "winnings" : 200,
+  "dateWon" : "2026-09-26",
+  "typeOfWager" : "typeOfWager",
+  "federalTaxWithheld" : 300,
+  "transaction" : "transaction",
+  "race" : "race",
+  "identicalWinnings" : 400,
+  "cashier" : "cashier",
+  "window" : "window",
+  "firstId" : "firstId",
+  "secondId" : "secondId",
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 500,
+      "taxId" : "22-243315",
+      "income" : 600
+    },
+    "local" : {
+      "taxWithheld" : 700,
+      "localityName" : "South Neilmouth",
+      "income" : 800
+    }
+  } ]
+}

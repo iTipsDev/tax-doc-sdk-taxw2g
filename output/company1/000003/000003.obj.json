@@ -1,0 +1,72 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "99-166-2881",
+  "taxFormId" : "7191814",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0269869",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Simonis-Kemmer"
+    },
+    "address" : {
+      "line1" : "89637 Blick Mews",
+      "city" : "Maynardstad",
+      "region" : "VT",
+      "postalCode" : "20581",
+      "unitType" : "Apt",
+      "unitNumber" : "637"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "liza.wilderman@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-70-2485",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Eufemia",
+      "middle" : "Kiersten",
+      "last" : "Bartell"
+    },
+    "businessName" : {
+      "name1" : "Rutherford, Dietrich and Lockman"
+    },
+    "address" : {
+      "line1" : "73245 Huel Circles",
+      "city" : "Mertzborough",
+      "region" : "PA",
+      "postalCode" : "12448",
+      "unitType" : "Apt",
+      "unitNumber" : "260"
+    },
+    "email" : "carey.gulgowski@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "winnings" : 200,
+  "dateWon" : "2026-02-11",
+  "typeOfWager" : "typeOfWager",
+  "federalTaxWithheld" : 300,
+  "transaction" : "transaction",
+  "race" : "race",
+  "identicalWinnings" : 400,
+  "cashier" : "cashier",
+  "window" : "window",
+  "firstId" : "firstId",
+  "secondId" : "secondId",
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 500,
+      "taxId" : "42-593805",
+      "income" : 600
+    },
+    "local" : {
+      "taxWithheld" : 700,
+      "localityName" : "Mamieberg",
+      "income" : 800
+    }
+  } ]
+}

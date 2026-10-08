@@ -1,0 +1,72 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "39-149-1169",
+  "taxFormId" : "8561711",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0269869",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Simonis-Kemmer"
+    },
+    "address" : {
+      "line1" : "89637 Blick Mews",
+      "city" : "Maynardstad",
+      "region" : "VT",
+      "postalCode" : "20581",
+      "unitType" : "Apt",
+      "unitNumber" : "637"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "liza.wilderman@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-75-2738",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Chi",
+      "middle" : "Donnette",
+      "last" : "Miller"
+    },
+    "businessName" : {
+      "name1" : "Halvorson LLC"
+    },
+    "address" : {
+      "line1" : "872 Quigley Village",
+      "city" : "Conroyberg",
+      "region" : "GA",
+      "postalCode" : "50074",
+      "unitType" : "Apt",
+      "unitNumber" : "222"
+    },
+    "email" : "estela.heathcote@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "winnings" : 200,
+  "dateWon" : "2026-02-12",
+  "typeOfWager" : "typeOfWager",
+  "federalTaxWithheld" : 300,
+  "transaction" : "transaction",
+  "race" : "race",
+  "identicalWinnings" : 400,
+  "cashier" : "cashier",
+  "window" : "window",
+  "firstId" : "firstId",
+  "secondId" : "secondId",
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 500,
+      "taxId" : "63-570374",
+      "income" : 600
+    },
+    "local" : {
+      "taxWithheld" : 700,
+      "localityName" : "Lynettehaven",
+      "income" : 800
+    }
+  } ]
+}
